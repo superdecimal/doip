@@ -1,0 +1,15 @@
+{
+  "name": "doip",
+  "version": "0.0.1",
+  "description": "This is a simple application to update a dns record in digital ocean dns service",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Paris Goudas",
+  "license": "ISC",
+  "dependencies": {
+    "q": "^1.4.1",
+    "restler": "^3.4.0"
+  }
+}
